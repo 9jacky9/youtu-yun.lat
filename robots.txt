@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
 Sitemap: https://youtu-yun.lat/sitemap.xml
